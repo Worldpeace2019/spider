@@ -7,7 +7,7 @@ We welcome developers from all over the world to help improve, optimize, or add 
 ---
 
 ## 🌟 About This Project
-This project aims to provide a simple and educational open-source platform for [describe your project goal, e.g., "controlling ESP32 hardware," "managing electronic inventory," "demonstrating embedded code examples," etc.].
+This project aims to provide a simple and educational open-source platform for a simple Python-based web crawler program that is used to crawl image samples for AI training..
 
 ---
 
